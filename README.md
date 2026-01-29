@@ -37,5 +37,5 @@ The **Meta-Llama-3-8B-Instruct** model is a **gated model** on Hugging Face. To 
 3. Authenticate your environment (e.g., using `huggingface-cli login` or setting the `HF_TOKEN` environment variable).
 
 ## Authors
-- Malak Laham
-- Zenab Waked
+- Malak
+- Zenab
